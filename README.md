@@ -1,7 +1,8 @@
 # My Portfolio
 
 Welcome to my portfolio repository! This is a Next.js-powered website that showcases my work, skills, and projects. The portfolio is designed to provide an interactive and visually appealing overview of my journey as a developer.
-
+### Live Demo
+Check out the live portfolio at [https://jasonngo-portfolio.vercel.app/](https://jasonngo-portfolio.vercel.app/).
 ## Features
 
 - **Project Showcase:** Explore a curated selection of my projects, each with detailed descriptions and live demos.
@@ -13,7 +14,7 @@ Welcome to my portfolio repository! This is a Next.js-powered website that showc
 ## Preview
 ### Desktop Preview
 <div style="text-align: center;">
-  <img src="https://github.com/jasonsonthanhngo/Jason_portfolio/assets/131301318/13c50908-5cb4-49e3-98e3-6ee5a2ce6f41" alt="Portfolio Preview GIF" width="100%"/>
+  <img src="https://github.com/jasonsonthanhngo/Jason_portfolio/assets/131301318/97d8c171-4b6f-4da7-957f-04e21885f1ae" alt="Portfolio Preview GIF" width="100%"/>
 </div>
 
 ![IMG_0026](https://github.com/jasonsonthanhngo/Jason_portfolio/assets/131301318/b4e9ff42-60ec-4bea-b34e-5105c3a093d9)
@@ -25,9 +26,9 @@ Welcome to my portfolio repository! This is a Next.js-powered website that showc
   <img src="https://github.com/jasonsonthanhngo/Jason_portfolio/assets/131301318/b0b08eeb-c883-4a32-a26f-0afac2427a10" alt="menu" width="266"/>
 </div>
 
-## Live Demo
 
-Check out the live portfolio at [https://jasonngo-portfolio.vercel.app/](https://jasonngo-portfolio.vercel.app/).
+
+
 
 ## Tech Stack
 
