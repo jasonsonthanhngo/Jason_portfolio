@@ -15,7 +15,10 @@ const skills = [
 	{ skill: 'Node.js' },
 	{ skill: 'Laravel' },
 	{ skill: 'Vue.js' },
+	{ skill: 'SQL' },
 	{ skill: 'MongoDB' },
+	{ skill: 'R' },
+	{ skill: 'Figma' },
 ];
 
 const AboutSection = () => {
@@ -33,24 +36,28 @@ const AboutSection = () => {
 							Get to know me!
 						</h1>
 						<p>
-							Hi, my name is Jason and I am a{' '}
-							<span className="font-bold">{'highly ambitious'}</span>,
-							<span className="font-bold">{' self-motivated'}</span>, and
-							<span className="font-bold">{' driven'}</span> software engineer
-							based in Orange County, CA.
+							Hi, I&#39;m Jason, a software engineer{' '}
+							<span className="font-bold text-teal-500">
+								{'driven by curiosity '}
+							</span>{' '}
+							and
+							<span className="font-bold text-teal-500">
+								{' fueled by challenges'}
+							</span>
+							. I&#39;m based in Orange County, CA.
 						</p>
 						<br />
 						<p>
 							I graduated from California State University, Long Beach in 2021
-							with a BS in Information System and have been working in the field
-							ever since.
+							with a BS in Information Systems and have been immersed in the
+							field ever since.
 						</p>
 						<br />
 						<p>
 							I have a wide range of hobbies and passions that keep me busy.
-							From reading, playing sports, traveling, to making YouTube videos,
-							I am always seeking new experiences and love to keep myself
-							engaged and learning new things.
+							From reading, playing sports, traveling, to experimenting with new
+							coding concepts, I am always seeking new experiences and love to
+							keep myself engaged and learning new things.
 						</p>
 						<br />
 						<p>
