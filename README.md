@@ -17,8 +17,6 @@ Check out the live portfolio at [https://jasonngo-portfolio.vercel.app/](https:/
   <img src="https://github.com/jasonsonthanhngo/Jason_portfolio/assets/131301318/97d8c171-4b6f-4da7-957f-04e21885f1ae" alt="Portfolio Preview GIF" width="100%"/>
 </div>
 
-![IMG_0026](https://github.com/jasonsonthanhngo/Jason_portfolio/assets/131301318/b4e9ff42-60ec-4bea-b34e-5105c3a093d9)
-
 ### Phone Preview
 <div style="display: flex;">
   <img src="https://github.com/jasonsonthanhngo/Jason_portfolio/assets/131301318/3a433a23-b541-4fb1-8c76-b7ad87abf9dd" alt="about_section" width="266"/>
