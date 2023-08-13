@@ -20,13 +20,10 @@ Welcome to my portfolio repository! This is a Next.js-powered website that showc
 
 ### Phone Preview
 <div style="display: flex;">
-  <img src="https://github.com/jasonsonthanhngo/Jason_portfolio/assets/131301318/f5dc8a2d-202d-41a2-8830-6461f3ebce14" alt="about_section" width="266"/>
-  <img src="https://github.com/jasonsonthanhngo/Jason_portfolio/assets/131301318/915a6a51-8e45-4734-b370-10c0bff9f424" alt="project_section" width="266"/>
-  <img src="https://github.com/jasonsonthanhngo/Jason_portfolio/assets/131301318/84e1c8d6-9912-4bbb-b713-562dcf4cb687" alt="menu" width="266"/>
+  <img src="https://github.com/jasonsonthanhngo/Jason_portfolio/assets/131301318/3a433a23-b541-4fb1-8c76-b7ad87abf9dd" alt="about_section" width="266"/>
+  <img src="https://github.com/jasonsonthanhngo/Jason_portfolio/assets/131301318/d8950102-3f12-4a41-9b6f-8b3db3d74927" alt="project_section" width="266"/>
+  <img src="https://github.com/jasonsonthanhngo/Jason_portfolio/assets/131301318/b0b08eeb-c883-4a32-a26f-0afac2427a10" alt="menu" width="266"/>
 </div>
-
-
-
 
 ## Live Demo
 
