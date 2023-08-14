@@ -1,6 +1,6 @@
 # My Portfolio
 
-Welcome to my portfolio repository! This is a Next.js-powered website that showcases my work, skills, and projects. The portfolio is designed to provide an interactive and visually appealing overview of my journey as a developer.
+Welcome to my portfolio repository! This is a Next.js-powered website that showcases my work, skills, and projects. The portfolio is designed with Tailwind CSS to provide an interactive and visually appealing overview of my journey as a developer.
 ### Live Demo
 Check out the live portfolio at [https://jasonngo-portfolio.vercel.app/](https://jasonngo-portfolio.vercel.app/).
 ## Features
