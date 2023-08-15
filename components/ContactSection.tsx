@@ -11,7 +11,7 @@ const ContactSection = () => {
 		const handleResize = () => {
 			if (window.innerWidth <= 1500) {
 				// Adjust the breakpoint as needed
-				setIconSize(window.innerWidth * 0.3);
+				setIconSize(window.innerWidth * 0.4);
 			} else {
 				setIconSize(450);
 			}
