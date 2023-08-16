@@ -1,4 +1,8 @@
-import { AiOutlineGithub, AiOutlineLinkedin } from 'react-icons/ai';
+import {
+	AiOutlineGithub,
+	AiOutlineLinkedin,
+	AiOutlineMail,
+} from 'react-icons/ai';
 
 const Footer = () => {
 	return (
@@ -27,6 +31,15 @@ const Footer = () => {
 						rel="noreferrer"
 						target="_blank">
 						<AiOutlineLinkedin
+							className="hover:-translate-y-1 transition-transform cursor-pointer text-neutral-500 dark:text-neutral-100"
+							size={30}
+						/>
+					</a>
+					<a
+						href="mailto:jasonsonthanhngo@gmail.com"
+						rel="noreferrer"
+						target="_blank">
+						<AiOutlineMail
 							className="hover:-translate-y-1 transition-transform cursor-pointer text-neutral-500 dark:text-neutral-100"
 							size={30}
 						/>

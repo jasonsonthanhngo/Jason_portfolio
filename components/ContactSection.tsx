@@ -1,7 +1,11 @@
 'use client';
 
 import React from 'react';
-import { AiOutlineGithub, AiOutlineLinkedin } from 'react-icons/ai';
+import {
+	AiOutlineGithub,
+	AiOutlineLinkedin,
+	AiOutlineMail,
+} from 'react-icons/ai';
 import { useState, useEffect } from 'react';
 
 const ContactSection = () => {
@@ -9,9 +13,9 @@ const ContactSection = () => {
 
 	useEffect(() => {
 		const handleResize = () => {
-			if (window.innerWidth <= 1500) {
+			if (window.innerWidth <= 1400) {
 				// Adjust the breakpoint as needed
-				setIconSize(window.innerWidth * 0.4);
+				setIconSize(window.innerWidth * 0.3);
 			} else {
 				setIconSize(450);
 			}
@@ -52,6 +56,16 @@ const ContactSection = () => {
 							rel="noreferrer"
 							target="_blank">
 							<AiOutlineLinkedin
+								className="hover:-translate-y-5 transition-transform cursor-pointer text-teal-500 dark:text-teal-100"
+								size={iconSize}
+							/>
+						</a>
+
+						<a
+							href="mailto:jasonsonthanhngo@gmail.com"
+							rel="noreferrer"
+							target="_blank">
+							<AiOutlineMail
 								className="hover:-translate-y-5 transition-transform cursor-pointer text-teal-500 dark:text-teal-100"
 								size={iconSize}
 							/>
