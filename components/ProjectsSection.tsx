@@ -16,7 +16,7 @@ const projects = [
 	{
 		name: 'Companion AI',
 		description:
-			'An application crafted with Next.js and powered by OpenAI's API. Shape personalized chatbots by infusing personas of favorites. Train and seed AI companions seamlessly for lifelike interactions!',
+			'An application crafted with Next.js and powered by OpenAI API. Shape personalized chatbots by infusing personas of favorites. Train and seed AI companions seamlessly for lifelike interactions!',
 		image: '/AI_Homepage.PNG',
 		github: 'https://github.com/jasonsonthanhngo/ai-companion',
 		link: 'https://jason-ai-companion.vercel.app/',
