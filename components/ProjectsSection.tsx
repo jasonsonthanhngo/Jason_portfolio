@@ -14,6 +14,14 @@ const projects = [
 		link: 'https://threads-app-xi.vercel.app/',
 	},
 	{
+		name: 'Companion AI',
+		description:
+			'An application crafted with Next.js and powered by OpenAI's API. Shape personalized chatbots by infusing personas of favorites. Train and seed AI companions seamlessly for lifelike interactions!',
+		image: '/AI_Homepage.PNG',
+		github: 'https://github.com/jasonsonthanhngo/ai-companion',
+		link: 'https://jason-ai-companion.vercel.app/',
+	},
+	{
 		name: 'AI Image Generator App',
 		description:
 			"Let's make art together! Simply provide a prompt, and watch the magic unfold as the AI brings your ideas to life. Powered by OpenAI's GPT-3.5-turbo, built with React, Node.js, MongoDB, and Cloudinary.",
